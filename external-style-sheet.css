@@ -1,0 +1,25 @@
+body{
+	width:960px;
+	font-family: <link href='http://fonts.googleapis.com/css?family=Droid+Serif' rel='stylesheet' type='text/css'>;
+	font-size:16px;
+	background color: rgb(60,124,130);
+}
+h1{
+	font-size: 32px;
+	position: fixed;
+	top:0px;
+	left:0px;
+	margin:0px;
+	color: rgb(0,0,193);
+	padding:15px;
+}
+p{
+	position: fixed;
+	top: 
+	color: black;
+}
+nav{
+	position:fixed;
+	bottom: 0px;
+	right: 0px;
+}
