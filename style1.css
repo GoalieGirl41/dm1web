@@ -6,7 +6,6 @@ body{
 }
 h1{
 	font-size: 32px;
-	position: fixed;
 	top:0px;
 	left:0px;
 	margin:0px;
@@ -14,12 +13,14 @@ h1{
 	padding:15px;
 }
 p{
-	position: fixed;
-	top: 
+	font-size: 20px;
 	color: black;
 }
 nav{
 	position:fixed;
 	bottom: 0px;
 	right: 0px;
+}
+footer{
+	font-size: 12px;
 }
